@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - mysql MDB2 driver
 Summary(pl):	%{_pearname} - sterownik mysql dla MDB2
 Name:		php-pear-%{_pearname}
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	BSD License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	0b345050054a82f88e8ab5d52b73463a
+# Source0-md5:	517bee19596ffe3d68f6a7e07167e760
 URL:		http://pear.php.net/package/MDB2_Driver_mysql/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
