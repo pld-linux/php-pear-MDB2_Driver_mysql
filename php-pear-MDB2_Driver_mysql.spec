@@ -20,7 +20,7 @@ BuildRequires:	rpmbuild(macros) >= 1.300
 Requires:	php-common >= 3:4.3.0
 Requires:	php-mysql
 Requires:	php-pear
-Requires:	php-pear-MDB2 >= 1:2.0.0
+Requires:	php-pear-MDB2 >= 1:2.0.1
 Requires:	php-pear-PEAR-core >= 1:1.0b1
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
