@@ -2,7 +2,6 @@
 %define		_pearname	MDB2_Driver_mysql
 %define		subver	b4
 %define		rel		1
-%include	/usr/lib/rpm/macros.php
 Summary:	%{_pearname} - mysql MDB2 driver
 Summary(pl.UTF-8):	%{_pearname} - sterownik mysql dla MDB2
 Name:		php-pear-%{_pearname}
